@@ -1,7 +1,7 @@
 .. _py_passage_counter:
 
 
-7.4 Passager Counter
+7.4 Passanger Counter
 ====================
 
 For large shopping malls, shopping centers, chain stores, airports, stations, museums, and public places such as exhibition halls, passenger traffic is an indispensable data.
