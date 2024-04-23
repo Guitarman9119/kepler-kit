@@ -24,7 +24,7 @@ It is flexible, can be docked, bent, and cut at will, and the back is equipped w
 * Light Strip Thickness: 2mm
 * Each LED can be controlled individually
 
-**WS2812B Introdction**
+**WS2812B Introduction**
 
 * `WS2812B Datasheet <https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf>`_
 
